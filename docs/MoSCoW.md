@@ -1,6 +1,13 @@
 # Priorização de Requisitos - MoSCoW
 
-
+|Membros participantes|
+|---------------------|
+|Wictor Girardi|
+|André Freitas|
+|Daniel Ashton|
+|Gustavo Veloso|
+|Lucas Ganda|
+|João de Assis|
 
 | Categoria | Descrição do Requisito |
 | -------- | -------- |
