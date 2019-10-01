@@ -9,3 +9,4 @@ Definida de forma simples como um conjunto de diagramas que representam elemento
 1.  [Lexicos](Modelagem/Lexicos.md)
 2.  [Casos de Uso](Modelagem/UserCases.md)
 3.  [Cenários](Modelagem/Cenarios.md)
+4.  [Especificação Suplementar](Modelagem/EspecificacaoSuplementar.md)
