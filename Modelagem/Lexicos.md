@@ -8,7 +8,6 @@
 
 Léxicos responsáveis por esclarecer qualquer dúvida a respeito de termos utilizados nesta wiki durante o projeto Rappi.
 
-
 | L01 | Usuário |
 |---|---|
 |<strong>Classificação</strong>|Objeto|

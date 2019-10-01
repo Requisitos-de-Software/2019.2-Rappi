@@ -1,6 +1,8 @@
+ <div style="text-align:left; vertical-align: middle; margin-left: 30px">
+      
 - [Home](/)
 
-<details><summary>Pré-Rastreabilidade </summary><br>
+<details><summary>Pré-Rastreabilidade</summary>
 
 - [RichPicture](PreRastreabilidade/RichPicture.md)
 
@@ -24,3 +26,4 @@
 - [Cenários](Modelagem/Cenarios.md)
 
 </details>
+   </div>
