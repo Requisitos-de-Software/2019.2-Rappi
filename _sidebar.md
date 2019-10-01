@@ -1,10 +1,13 @@
 - [Home](/)
 
-- [**Pré-Rastreabilidade**](/PreRastreabilidade/)
-
-  - [RichPicture](PreRastreabilidade/RichPicture.md)
+<p>
+<details><summary>Pré-Rastreabilidade</summary><br>
+    - [RichPicture](PreRastreabilidade/RichPicture.md)
+</details>
+</p>
 
 - [**Elicitação**](/Elicitacao/)
+
   - [Brainstorming](Elicitacao/Brainstorm.md)
   - [Storytelling](Elicitacao/Storytelling.md)
   - [Questionário](Elicitacao/questionario.md)
