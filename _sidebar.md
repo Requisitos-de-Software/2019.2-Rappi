@@ -11,3 +11,8 @@
   - [MoSCoW](Elicitacao/MoSCoW.md)
   - [Observacão](Elicitacao/Obersavação.md)
   - [Introspecção](Elicitacao/Introspecção.md)
+
+- [**Modelagem**](/Modelagem/)
+  - [Lexicos](Modelagem/Lexicos.md)
+  - [Casos de Uso](Modelagem/UserCases.md)
+  - [Cenários](Modelagem/Cenarios.md)
