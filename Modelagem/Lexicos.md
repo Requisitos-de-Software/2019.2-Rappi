@@ -8,6 +8,19 @@
 
 Léxicos responsáveis por esclarecer qualquer dúvida a respeito de termos utilizados nesta wiki durante o projeto Rappi.
 
+## Metodologia
+| LXX | Título |
+|---|---|
+|<strong>Classificação</strong>|Estado, Objeto ou Verbo|
+|<strong>Noção</strong>||
+|<strong>Impacto</strong>||
+|<strong>Rastro</strong>||
+|<strong>Autor</strong>||
+|<strong>Versão</strong>||
+|<strong>Feito em</strong>||
+
+## Léxicos
+
 | L01 | Usuário |
 |---|---|
 |<strong>Classificação</strong>|Objeto|
