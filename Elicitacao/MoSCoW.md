@@ -32,21 +32,21 @@ Itens classificados como COULD são desejáveis, mas não são necessários (do 
 
 Itens classificados como WON´T tem a concordância dos interessados que são itens menos críticos, com menor retorno sobre investimento ou não adequados para serem realizados durante algum período de tempo. Obs: As vezes o termo Would Like (Gostaria) pode ser utilizado para dar melhor entendimento na classificação dos itens.
 
-| Categoria | Descrição do Requisito | Técnica utilizada |
-| -------- | -------- | -------- |
-| **Must**     | O aplicativo é obrigado a permitir o cadastro de usuário | Brainstorm |
-| **Must**     | O aplicativo é obrigado a permitir o cadastro de estabelecimentos | Brainstorm |
-| **Must**     | O aplicativo é obrigado a possuir uma ou mais formas de pagamento | Brainstorm |
-| **Must**     | O aplicativo é obrigado a possuir um cadastro preciso de endereços, tanto de usuário quanto dos estabeleciementos | Introspecção |
-| **Should**   | O aplicativo deve possuir categorias específicas diferentes para uma melhor visualização dos estabelecimentos | Introspecção |
-| **Should**   | O aplicativo deve exibir um tempo médio de entrega para cada estabelecimento | Instrospecção |
-| **Should**   | O aplicativo deve exibir ao usuário, em tempo real, a situação do seu pedido | Brainstorm |
-| **Should**   | O aplicativo deve possuir uma pesquisa eficaz de estabelecimentos e produtos | Instrospecção |
-| **Should**   | O aplicativo deve permitir ao usuário o cadastro de mais de um endereço de entrega | Observação |
-| **Could**    | O aplicativo poderia permitir ao usuário avaliar o entregador e o pedido | Storytelling |
-| **Could**    | O aplicativo poderia permitir ao usuário ordenar os estabelecimentos por tempo de entrega ou por taxa de entrega | Instrospecção |
-| **Could**    | O aplicativo poderia ter um sistema de cupons de desconto para os pedidos | Storytelling |
-| **Could**    | O aplicativo poderia possuir um chat de suporte de eventuais dúvidas e problemas do usuário | Brainstorm |
-| **Could**    | O aplicativo poderia possuir um sistema de notificação ao usuário de promoções e novas funcionalidades | Questionário |
-| **Want**     | O aplicativo poderia permitir ao usuário criar uma lista de estabelecimentos "favoritos" | Questionário |
-| **Want**     | O aplicativo poderia estabelecer "missões" ao usuário com uma recompensa de pontos que podem ser trocados por vantagens(Descontos, isenção da taxa de entrega e adição de saldo na conta) para próximos pedidos | Questionário |
+| Categoria | Descrição do Requisito | Técnica utilizada | Funcional? |
+| -------- | -------- | -------- |-------- |
+| **Must**     | O aplicativo é obrigado a permitir o cadastro de usuário | Brainstorm | Sim |
+| **Must**     | O aplicativo é obrigado a permitir o cadastro de estabelecimentos | Brainstorm | Sim |
+| **Must**     | O aplicativo é obrigado a possuir uma ou mais formas de pagamento | Brainstorm | Sim |
+| **Must**     | O aplicativo é obrigado a possuir um cadastro preciso de endereços, tanto de usuário quanto dos estabeleciementos | Introspecção | Sim |
+| **Should**   | O aplicativo deve possuir categorias específicas diferentes para uma melhor visualização dos estabelecimentos | Introspecção | Não |
+| **Should**   | O aplicativo deve exibir um tempo médio de entrega para cada estabelecimento | Instrospecção | Sim |
+| **Should**   | O aplicativo deve exibir ao usuário, em tempo real, a situação do seu pedido | Brainstorm | Sim |
+| **Should**   | O aplicativo deve possuir uma pesquisa eficaz de estabelecimentos e produtos | Instrospecção | Sim |
+| **Should**   | O aplicativo deve permitir ao usuário o cadastro de mais de um endereço de entrega | Observação | Não |
+| **Could**    | O aplicativo poderia permitir ao usuário avaliar o entregador e o pedido | Storytelling | Sim |
+| **Could**    | O aplicativo poderia permitir ao usuário ordenar os estabelecimentos por tempo de entrega ou por taxa de entrega | Instrospecção | Sim |
+| **Could**    | O aplicativo poderia ter um sistema de cupons de desconto para os pedidos | Storytelling | Sim |
+| **Could**    | O aplicativo poderia possuir um chat de suporte de eventuais dúvidas e problemas do usuário | Brainstorm | Sim |
+| **Could**    | O aplicativo poderia possuir um sistema de notificação ao usuário de promoções e novas funcionalidades | Questionário | Sim |
+| **Want**     | O aplicativo poderia permitir ao usuário criar uma lista de estabelecimentos "favoritos" | Questionário | Não |
+| **Want**     | O aplicativo poderia estabelecer "missões" ao usuário com uma recompensa de pontos que podem ser trocados por vantagens(Descontos, isenção da taxa de entrega e adição de saldo na conta) para próximos pedidos | Questionário | Sim |
