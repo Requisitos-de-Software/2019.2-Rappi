@@ -8,7 +8,7 @@
 
 </details>
 
-<details><summary>Elicitação </summary><br>
+<details><summary>Elicitação</summary>
 
 - [Brainstorming](Elicitacao/Brainstorm.md)
 - [Storytelling](Elicitacao/Storytelling.md)
@@ -19,11 +19,12 @@
 
 </details>
 
-<details><summary>Modelagem </summary><br>
+<details><summary>Modelagem</summary>
 
 - [Lexicos](Modelagem/Lexicos.md)
 - [Casos de Uso](Modelagem/UserCases.md)
 - [Cenários](Modelagem/Cenarios.md)
+- [Especificação Suplementar](Modelagem/EspecificacaoSuplementar.md)
 
 </details>
    </div>
