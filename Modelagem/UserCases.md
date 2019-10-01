@@ -4,6 +4,10 @@
 >
 > **Versão:** 0.1
 
+# Casos de uso
+
+Utilizado para representar os requisitos funcionais de um software, o diagrama de casos de uso é um importante elemento para a documentação do projeto, comunicação interna do time de desenvolvimento e, mesmo, comunicação com o cliente. Por isso, é um ponto fundamental a todo engenheiro, arquiteto, programador, entre outras ocupações que atuam em um projeto, compreender e saber criar diagramas de casos de uso.
+
 ### **UC01 - Fazer login**
 
 ![Casos de Uso](https://i.imgur.com/FPpyALq.jpg)
