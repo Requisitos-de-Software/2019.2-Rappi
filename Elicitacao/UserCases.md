@@ -2,8 +2,8 @@
 
 ![Casos de Uso](https://i.imgur.com/FPpyALq.jpg)
 
-| Versão | 1.0 29/09/2019 |
-| UC01 | Fazer Login |
+
+| Versão |1.0 29/09/2019 |
 | -------------- |:----------- |
 | **Autores** | André Freitas e João de Assis |
 | **Descrição** | Fazer Login na Rappi |
@@ -19,8 +19,10 @@
 
 ![Fazer um pedido](https://i.imgur.com/6rT3I67.jpg)
 
-| Versão | 1.0 29/09/2019 |
+
+
 | UC02 | Fazer um pedido |
+| Versão |1.0 29/09/2019 |
 | -------------- |:----------- |
 | **Autor(es)** | André Freitas e João de Assis |
 | **Descrição** | Realizar um pedido no aplicativo |
@@ -30,3 +32,4 @@
 | **Fluxos alternativos** | **Fluxo Alternativo 1 - Fazer pedido:** <br> > Usuário acessa o aplicativo Rappi <br> > Usuário encontra o produto que quer na pagina inicial <br> > Usuário confirma o pedido <br> <br>**Fluxo Alternativo 2 - Fazer pedido com cupom de desconto:** <br>> Usuário acessa o aplicativo Rappi <br> > Usuário realiza todo o procedimento descrito no fluxo principal <br> > Usuário insere cupom de desconto antes de confirmar o pedido <br> <br> |
 | **Fluxos de exceção** | **Fluxo de Exceção 1 - Estabelecimento estar fechado:** <br> > Aplicativo aprrsenta um aviso comunicando que não o estabelecimento não está disponível <br> <br> **Fluxo de Exceção 2 - Erro no método de pagamento :**<br> > Aplicativo aprrsenta um aviso comunicando que o cartão cadastrado não é válido ou está com problemas <br> <br> |
 | **Pós condições** | Usuário pode avaliar o entregador após receber seu pedido|
+
