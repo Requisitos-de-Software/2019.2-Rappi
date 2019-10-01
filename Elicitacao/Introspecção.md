@@ -1,19 +1,12 @@
+> **Autor:** Grupo
+>
+> **Descrição:** Rastreabilidade
+>
+> **Versão:** 0.1
+
 # Introspecção
 
-# Introdução
-
-Técnica que consiste em entender quais propriedades são necessárias para que o sistema seja um sucesso
-
-#### Rastreabilidade
-
-| Membros participantes |
-| --------------------- |
-| Wictor Girardi        |
-| André Freitas         |
-| Lucas Ganda           |
-| Gustavo Veloso        |
-| Daniel Ashton         |
-| João de Assis         |
+Introspecção: A introspecção será usada como uma forma de imaginar o caminho do usuário no sistema. Visando aprofundar nos requisitos obtidos por meio do Brainstorming.
 
 #### Contexto
 

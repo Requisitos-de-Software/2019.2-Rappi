@@ -1,3 +1,9 @@
+> **Autor:** Grupo
+>
+> **Descrição:** Rich Picture
+>
+> **Versão:** 0.1
+
 ### Rich picture
 
 <p>

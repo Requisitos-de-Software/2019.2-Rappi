@@ -1,3 +1,9 @@
+> **Autor:** Gustavo Veloso
+>
+> **Descrição:** Lexicos
+>
+> **Versão:** 0.1
+
 | L01 | Usuário |
 |---|---|
 |<strong>Classificação</strong>|Objeto|

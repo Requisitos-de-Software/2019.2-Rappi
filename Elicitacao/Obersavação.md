@@ -1,3 +1,11 @@
+> **Autor:** André Freitas
+>
+> **Descrição:** Observação
+>
+> **Versão:** 0.1
+
+#### Rastreabilidade
+
 # Observacão do Aplicativo Rappi
 
 ## Pontos Positivos

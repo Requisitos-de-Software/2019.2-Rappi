@@ -1,3 +1,9 @@
+> **Autor:** Wictor Girardi
+>
+> **Descrição:** Cenários
+>
+> **Versão:** 0.1
+
 ## Introdução
 
 A observação do cenário é quase sempre a primeira técnica utilizada para identificar os requisitos de negócio e de software. Tratasse de um método informal porêm extremamente eficiente.
