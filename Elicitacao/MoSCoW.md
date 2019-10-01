@@ -1,8 +1,14 @@
-> **Autor:** Grupo
+> *Autor:* Grupo
 >
-> **Descrição:** MoSCoW
+> *Descrição:* Criação do documento
 >
-> **Versão:** 0.1
+> *Versão:* 0.1
+ 
+> *Autor:* Wictor Giradi e Gustavo Veloso
+>
+> *Descrição:* Inserção das técnicas de elicitação usadas para cada requisito
+>
+> *Versão:* 0.2
 
 # Priorização de Requisitos - MoSCoW
 
@@ -26,21 +32,21 @@ Itens classificados como COULD são desejáveis, mas não são necessários (do 
 
 Itens classificados como WON´T tem a concordância dos interessados que são itens menos críticos, com menor retorno sobre investimento ou não adequados para serem realizados durante algum período de tempo. Obs: As vezes o termo Would Like (Gostaria) pode ser utilizado para dar melhor entendimento na classificação dos itens.
 
-| Categoria  | Descrição do Requisito                                                                                                                                                                                          |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Must**   | O aplicativo é obrigado a permitir o cadastro de usuário                                                                                                                                                        |
-| **Must**   | O aplicativo é obrigado a permitir o cadastro de estabelecimentos                                                                                                                                               |
-| **Must**   | O aplicativo é obrigado a possuir uma ou mais formas de pagamento                                                                                                                                               |
-| **Must**   | O aplicativo é obrigado a possuir um cadastro preciso de endereços, tanto de usuário quanto dos estabeleciementos                                                                                               |
-| **Should** | O aplicativo deve possuir categorias específicas diferentes para uma melhor visualização dos estabelecimentos                                                                                                   |
-| **Should** | O aplicativo deve exibir um tempo médio de entrega para cada estabelecimento                                                                                                                                    |
-| **Should** | O aplicativo deve exibir ao usuário, em tempo real, a situação do seu pedido                                                                                                                                    |
-| **Should** | O aplicativo deve possuir uma pesquisa eficaz de estabelecimentos e produtos                                                                                                                                    |
-| **Should** | O aplicativo deve permitir ao usuário o cadastro de mais de um endereço de entrega                                                                                                                              |
-| **Could**  | O aplicativo poderia permitir ao usuário avaliar o entregador e o pedido                                                                                                                                        |
-| **Could**  | O aplicativo poderia permitir ao usuário ordenar os estabelecimentos por tempo de entrega ou por taxa de entrega                                                                                                |
-| **Could**  | O aplicativo poderia ter um sistema de cupons de desconto para os pedidos                                                                                                                                       |
-| **Could**  | O aplicativo poderia possuir um chat de suporte de eventuais dúvidas e problemas do usuário                                                                                                                     |
-| **Could**  | O aplicativo poderia possuir um sistema de notificação ao usuário de promoções e novas funcionalidades                                                                                                          |
-| **Want**   | O aplicativo poderia permitir ao usuário criar uma lista de estabelecimentos "favoritos"                                                                                                                        |
-| **Want**   | O aplicativo poderia estabelecer "missões" ao usuário com uma recompensa de pontos que podem ser trocados por vantagens(Descontos, isenção da taxa de entrega e adição de saldo na conta) para próximos pedidos |
+| Categoria | Descrição do Requisito | Técnica utilizada |
+| -------- | -------- | -------- |
+| **Must**     | O aplicativo é obrigado a permitir o cadastro de usuário | Brainstorm |
+| **Must**     | O aplicativo é obrigado a permitir o cadastro de estabelecimentos | Brainstorm |
+| **Must**     | O aplicativo é obrigado a possuir uma ou mais formas de pagamento | Brainstorm |
+| **Must**     | O aplicativo é obrigado a possuir um cadastro preciso de endereços, tanto de usuário quanto dos estabeleciementos | Introspecção |
+| **Should**   | O aplicativo deve possuir categorias específicas diferentes para uma melhor visualização dos estabelecimentos | Introspecção |
+| **Should**   | O aplicativo deve exibir um tempo médio de entrega para cada estabelecimento | Instrospecção |
+| **Should**   | O aplicativo deve exibir ao usuário, em tempo real, a situação do seu pedido | Brainstorm |
+| **Should**   | O aplicativo deve possuir uma pesquisa eficaz de estabelecimentos e produtos | Instrospecção |
+| **Should**   | O aplicativo deve permitir ao usuário o cadastro de mais de um endereço de entrega | Observação |
+| **Could**    | O aplicativo poderia permitir ao usuário avaliar o entregador e o pedido | Storytelling |
+| **Could**    | O aplicativo poderia permitir ao usuário ordenar os estabelecimentos por tempo de entrega ou por taxa de entrega | Instrospecção |
+| **Could**    | O aplicativo poderia ter um sistema de cupons de desconto para os pedidos | Storytelling |
+| **Could**    | O aplicativo poderia possuir um chat de suporte de eventuais dúvidas e problemas do usuário | Brainstorm |
+| **Could**    | O aplicativo poderia possuir um sistema de notificação ao usuário de promoções e novas funcionalidades | Questionário |
+| **Want**     | O aplicativo poderia permitir ao usuário criar uma lista de estabelecimentos "favoritos" | Questionário |
+| **Want**     | O aplicativo poderia estabelecer "missões" ao usuário com uma recompensa de pontos que podem ser trocados por vantagens(Descontos, isenção da taxa de entrega e adição de saldo na conta) para próximos pedidos | Questionário |
