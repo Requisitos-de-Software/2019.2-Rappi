@@ -10,6 +10,12 @@
 >
 > *Versão:* 0.2
 
+> *Autor:* Gustavo Veloso
+>
+> *Descrição:* Inserção de mais requisitos identificados durante a modelagem de Requisitos
+>
+> *Versão:* 0.3
+
 # Priorização de Requisitos - MoSCoW
 
 Esta técnica foi originalmente incluída nas técnicas do Método de Desenvolvimento Dinâmico de Sistemas – Dynamic Systems Development Method (DSDM).
@@ -43,10 +49,18 @@ Itens classificados como WON´T tem a concordância dos interessados que são it
 | **Should**   | O aplicativo deve exibir ao usuário, em tempo real, a situação do seu pedido | Brainstorm | Sim |
 | **Should**   | O aplicativo deve possuir uma pesquisa eficaz de estabelecimentos e produtos | Instrospecção | Sim |
 | **Should**   | O aplicativo deve permitir ao usuário o cadastro de mais de um endereço de entrega | Observação | Não |
+| **Should**    | O estabelecimento deve definir seu horário de funcionamento | Refatoração | Sim |
+| **Should**    | O estabelecimento deve ter um nível de qualidade satisfatório | Refatoração | Sim |
+| **Should**    | A busca por estabelecimentos deve ser satisfatória | Refatoração | Não |
+| **Should**    | O usuário deve ter uma cesta de compras para registrar todos os produtos que deseja | Refatoração | Sim |
 | **Could**    | O aplicativo poderia permitir ao usuário avaliar o entregador e o pedido | Storytelling | Sim |
 | **Could**    | O aplicativo poderia permitir ao usuário ordenar os estabelecimentos por tempo de entrega ou por taxa de entrega | Instrospecção | Sim |
 | **Could**    | O aplicativo poderia ter um sistema de cupons de desconto para os pedidos | Storytelling | Sim |
 | **Could**    | O aplicativo poderia possuir um chat de suporte de eventuais dúvidas e problemas do usuário | Brainstorm | Sim |
 | **Could**    | O aplicativo poderia possuir um sistema de notificação ao usuário de promoções e novas funcionalidades | Questionário | Sim |
+| **Could**    | O usuário poderia acessar seu histórico de pedidos | Refatoração | Sim |
+| **Could**    | O usuário poderia dar gorjetas para o entregador | Refatoração | Sim |
+| **Could**    | O estabelecimento poderia definir o estoque de cada produto | Refatoração | Sim |
+| **Could**    | O estabelecimento poderia definir descontos para uma parcela de seus produtos | Refatoração | Sim |
 | **Want**     | O aplicativo poderia permitir ao usuário criar uma lista de estabelecimentos "favoritos" | Questionário | Não |
 | **Want**     | O aplicativo poderia estabelecer "missões" ao usuário com uma recompensa de pontos que podem ser trocados por vantagens(Descontos, isenção da taxa de entrega e adição de saldo na conta) para próximos pedidos | Questionário | Sim |
