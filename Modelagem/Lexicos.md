@@ -4,6 +4,12 @@
 >
 > **Versão:** 0.1
 
+> **Autor:** Gustavo Veloso
+>
+> **Descrição:** Modificação da convenção de versionamento
+>
+> **Versão:** 0.2
+
 # Lexicos
 
 Léxicos responsáveis por esclarecer qualquer dúvida a respeito de termos utilizados nesta wiki durante o projeto Rappi.
@@ -31,7 +37,7 @@ Léxicos responsáveis por esclarecer qualquer dúvida a respeito de termos util
 ||O usuário avalia restaurantes e entregadores|
 |<strong>Rastro</strong>|- - -|
 |<strong>Autor</strong>|Gustavo Veloso, João de Assis|
-|<strong>Versão</strong>|1.0|
+|<strong>Versão</strong>|0.1|
 |<strong>Feito em</strong>|30/09/2019|
 
 | L02 | Cadastrar uma nova conta |
@@ -41,7 +47,7 @@ Léxicos responsáveis por esclarecer qualquer dúvida a respeito de termos util
 |<strong>Impacto</strong>|Usuário tem acesso a fazer pedidos, conhecer estabelecimentos|
 |<strong>Rastro</strong>|- - -|
 |<strong>Autor</strong>|Gustavo Veloso, João de Assis|
-|<strong>Versão</strong>|1.0|
+|<strong>Versão</strong>|0.1|
 |<strong>Feito em</strong>|30/09/2019|
 
 | L03 | Logar em uma conta existente |
@@ -51,7 +57,7 @@ Léxicos responsáveis por esclarecer qualquer dúvida a respeito de termos util
 |<strong>Impacto</strong>|Usuário tem acesso a fazer pedidos, acompanhar todo seu histórico, conhecer estabelecimentos, fazer avaliações|
 |<strong>Rastro</strong>|- - -|
 |<strong>Autor</strong>|Gustavo Veloso|
-|<strong>Versão</strong>|1.0|
+|<strong>Versão</strong>|0.1|
 |<strong>Feito em</strong>|30/09/2019|
 
 | L03 | Entregador |
@@ -63,7 +69,7 @@ Léxicos responsáveis por esclarecer qualquer dúvida a respeito de termos util
 ||Ele pode receber gorjeta do Usuário|
 |<strong>Rastro</strong>|- - -|
 |<strong>Autor</strong>|Gustavo Veloso|
-|<strong>Versão</strong>|1.0|
+|<strong>Versão</strong>|0.1|
 |<strong>Feito em</strong>|30/09/2019|
 
 | L04 | Estabelecimento |
@@ -75,7 +81,7 @@ Léxicos responsáveis por esclarecer qualquer dúvida a respeito de termos util
 ||O estabelecimento pode aplicar descontos em seus produtos|
 |<strong>Rastro</strong>|- - -|
 |<strong>Autor</strong>|Gustavo Veloso|
-|<strong>Versão</strong>|1.0|
+|<strong>Versão</strong>|0.1|
 |<strong>Feito em</strong>|30/09/2019|
 
 | L05 | Avaliações |
@@ -86,7 +92,7 @@ Léxicos responsáveis por esclarecer qualquer dúvida a respeito de termos util
 ||A Avaliação é feita após um Pedido ser concluído e ela está associada aquele Pedido|
 |<strong>Rastro</strong>|- - -|
 |<strong>Autor</strong>|Gustavo Veloso|
-|<strong>Versão</strong>|1.0|
+|<strong>Versão</strong>|0.1|
 |<strong>Feito em</strong>|30/09/2019|
 
 | L06 | Produto |
@@ -98,7 +104,7 @@ Léxicos responsáveis por esclarecer qualquer dúvida a respeito de termos util
 ||Todo produto possui um preço|
 |<strong>Rastro</strong>|- - -|
 |<strong>Autor</strong>|Gustavo Veloso|
-|<strong>Versão</strong>|1.0|
+|<strong>Versão</strong>|0.1|
 |<strong>Feito em</strong>|30/09/2019|
 
 | L07 | Pedidos |
@@ -109,7 +115,7 @@ Léxicos responsáveis por esclarecer qualquer dúvida a respeito de termos util
 ||Um Pedido tem seu valor alterado por Cupons|
 |<strong>Rastro</strong>|- - -|
 |<strong>Autor</strong>|Gustavo Veloso|
-|<strong>Versão</strong>|1.0|
+|<strong>Versão</strong>|0.1|
 |<strong>Feito em</strong>|30/09/2019|
 
 | L08 | Preço do Produto |
@@ -120,7 +126,7 @@ Léxicos responsáveis por esclarecer qualquer dúvida a respeito de termos util
 ||Cupons podem alterar o Preço caso o Estabelecimento autorize o uso de Cupons|
 |<strong>Rastro</strong>|- - -|
 |<strong>Autor</strong>|Gustavo Veloso|
-|<strong>Versão</strong>|1.0|
+|<strong>Versão</strong>|0.1|
 |<strong>Feito em</strong>|30/09/2019|
 
 | L09 | Cupons |
@@ -131,7 +137,7 @@ Léxicos responsáveis por esclarecer qualquer dúvida a respeito de termos util
 ||Cupons podem alterar o Preço caso o Estabelecimento autorize o uso de Cupons|
 |<strong>Rastro</strong>|- - -|
 |<strong>Autor</strong>|Gustavo Veloso|
-|<strong>Versão</strong>|1.0|
+|<strong>Versão</strong>|0.1|
 |<strong>Feito em</strong>|30/09/2019|
 
 | L10 | Endereços do Usuário |
@@ -142,7 +148,7 @@ Léxicos responsáveis por esclarecer qualquer dúvida a respeito de termos util
 ||Todo Endereço deve ser validado se está em uma Zona de Cobertura da Rappi|
 |<strong>Rastro</strong>|- - -|
 |<strong>Autor</strong>|Gustavo Veloso|
-|<strong>Versão</strong>|1.0|
+|<strong>Versão</strong>|0.1|
 |<strong>Feito em</strong>|30/09/2019|
 
 | L11 | Zona de Cobertura |
@@ -152,7 +158,7 @@ Léxicos responsáveis por esclarecer qualquer dúvida a respeito de termos util
 |<strong>Impacto</strong>|O Usuário tenta cadastrar um Endereço fora de uma Zona de Cobertura, mas não consegue|
 |<strong>Rastro</strong>|- - -|
 |<strong>Autor</strong>|Gustavo Veloso|
-|<strong>Versão</strong>|1.0|
+|<strong>Versão</strong>|0.1|
 |<strong>Feito em</strong>|30/09/2019|
 
 | L12 | Fazer um pedido |
@@ -162,7 +168,7 @@ Léxicos responsáveis por esclarecer qualquer dúvida a respeito de termos util
 |<strong>Impacto</strong>|Fazer um pedido força as 3 partes envolvidas a cumprir suas obrigações para evitar perdas individuais|
 |<strong>Rastro</strong>|- - -|
 |<strong>Autor</strong>|Gustavo Veloso|
-|<strong>Versão</strong>|1.0|
+|<strong>Versão</strong>|0.1|
 |<strong>Feito em</strong>|30/09/2019|
 
 | L13 | Métodos de Pagamento |
@@ -173,7 +179,7 @@ Léxicos responsáveis por esclarecer qualquer dúvida a respeito de termos util
 ||Alguns Cupons só são válidos em Métodos de Pagamento específicos|
 |<strong>Rastro</strong>|- - -|
 |<strong>Autor</strong>|Gustavo Veloso|
-|<strong>Versão</strong>|1.0|
+|<strong>Versão</strong>|0.1|
 |<strong>Feito em</strong>|30/09/2019|
 
 | L13 | Métodos de Pagamento |
@@ -184,7 +190,7 @@ Léxicos responsáveis por esclarecer qualquer dúvida a respeito de termos util
 ||Alguns Cupons só são válidos em Métodos de Pagamento específicos|
 |<strong>Rastro</strong>|- - -|
 |<strong>Autor</strong>|Gustavo Veloso|
-|<strong>Versão</strong>|1.0|
+|<strong>Versão</strong>|0.1|
 |<strong>Feito em</strong>|30/09/2019|
 
 | L14 | Buscar um Estabelecimento |
@@ -194,7 +200,7 @@ Léxicos responsáveis por esclarecer qualquer dúvida a respeito de termos util
 |<strong>Impacto</strong>|O Usuário pode escolher como ordenar o resultado da pesquisa: Tempo de entrega, Taxa de entrega e Padrão|
 |<strong>Rastro</strong>|- - -|
 |<strong>Autor</strong>|Gustavo Veloso|
-|<strong>Versão</strong>|1.0|
+|<strong>Versão</strong>|0.1|
 |<strong>Feito em</strong>|30/09/2019|
 
 | L15 | Tempo de Entrega |
@@ -204,7 +210,7 @@ Léxicos responsáveis por esclarecer qualquer dúvida a respeito de termos util
 |<strong>Impacto</strong>|Estabelecimentos com menor Tempo de Entrega são melhores ranqueados na ordenação por Tempo de Entrega|
 |<strong>Rastro</strong>|- - -|
 |<strong>Autor</strong>|Gustavo Veloso, Wictor Girardi|
-|<strong>Versão</strong>|1.0|
+|<strong>Versão</strong>|0.1|
 |<strong>Feito em</strong>|30/09/2019|
 
 | L16 | Taxa de Entrega |
@@ -214,7 +220,7 @@ Léxicos responsáveis por esclarecer qualquer dúvida a respeito de termos util
 |<strong>Impacto</strong>|Estabelecimentos com menor Taxa de Entrega são melhores ranqueados na ordenação por Taxa de Entrega|
 |<strong>Rastro</strong>|- - -|
 |<strong>Autor</strong>|Gustavo Veloso|
-|<strong>Versão</strong>|1.0|
+|<strong>Versão</strong>|0.1|
 |<strong>Feito em</strong>|30/09/2019|
 
 | L17 | Padrão do Estabelecimento |
@@ -224,7 +230,7 @@ Léxicos responsáveis por esclarecer qualquer dúvida a respeito de termos util
 |<strong>Impacto</strong>|Estabelecimentos com melhor Padrão são melhores ranqueados na ordenação por Padrão|
 |<strong>Rastro</strong>|- - -|
 |<strong>Autor</strong>|Gustavo Veloso|
-|<strong>Versão</strong>|1.0|
+|<strong>Versão</strong>|0.1|
 |<strong>Feito em</strong>|30/09/2019|
 
 | L18 | Categoria do Estabelecimento |
@@ -234,7 +240,7 @@ Léxicos responsáveis por esclarecer qualquer dúvida a respeito de termos util
 |<strong>Impacto</strong>|A categorização de Estabelecimentos ajudam na filtragem|
 |<strong>Rastro</strong>|- - -|
 |<strong>Autor</strong>|Gustavo Veloso|
-|<strong>Versão</strong>|1.0|
+|<strong>Versão</strong>|0.1|
 |<strong>Feito em</strong>|30/09/2019|
 
 | L19 | Cesta de Compras |
@@ -244,5 +250,5 @@ Léxicos responsáveis por esclarecer qualquer dúvida a respeito de termos util
 |<strong>Impacto</strong>|O Usuário pode adicionar Produtos de diferentes Estabelecimentos|
 |<strong>Rastro</strong>|- - -|
 |<strong>Autor</strong>|Gustavo Veloso, João de Assis|
-|<strong>Versão</strong>|1.0|
+|<strong>Versão</strong>|0.1|
 |<strong>Feito em</strong>|30/09/2019|
