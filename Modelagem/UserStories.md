@@ -1,13 +1,19 @@
 > **Autor:** Gustavo Veloso
 >
-> **Descrição:** Criação do documenot
+> **Descrição:** Criação do documento
 >
 > **Versão:** 0.1
+
+> **Autor:** Gustavo Veloso
+>
+> **Descrição:** Definição dos Temas e Épicos
+>
+> **Versão:** 0.2
 
 ## User Stories
 Utilizamos User Stories para tornar mais fácil a definição das tasks listadas para os Backlogs, além de dar uma noção mais ampla da aplicação para os envolvidos com diferentes contextos diferentes
 
-## Metodologia
+### Metodologia
 | USXX |
 |---|
 | História |
@@ -168,3 +174,77 @@ Utilizamos User Stories para tornar mais fácil a definição das tasks listadas
 |---|
 | Enquanto Usuário, eu posso cumprir desafios e "missões", para acumular pontos e trocá-los em benefícios dentro do aplicativo. |
 | Requisito relacionado: **24** |
+
+## Themes e Epics
+Agora que todos os User Stories foram defindidos, cada um dele será colocado em um Epic e, conseguinte, cada Epic será colocado dentro de um Theme.
+
+## Epics
+### Metodologia
+| EPXX |
+|---|
+| Título |
+| Lista de User Stories |
+
+
+| EP01 |
+|---|
+| Cadastro de conta |
+| US01, US02 |
+
+| EP02 |
+|---|
+| Cadastro de endereço |
+| US05, US06, US15 |
+
+| EP03 |
+|---|
+| Cadastro de meio de pagamento |
+| US03, US4|
+
+| EP04 |
+|---|
+| Cadastro de Estoque |
+| US27, US28 |
+
+| EP05 |
+|---|
+| Busca de estabelecimento e decisão do pedido |
+| US07, US08, US09, US10, US16, US17, US18, US19, US21 |
+
+| EP06 |
+|---|
+| Cupons e desconto |
+| US22, US24 |
+
+| EP07 |
+|---|
+| Acompanhamento do pedido |
+| US11, US12, US13, US14, US23 |
+
+| EP08 |
+|---|
+| Avaliação |
+| US20, 25, 26 |
+
+## Themes
+### Metodologia
+| THXX |
+|---|
+| Título |
+| Lista de Epics |
+
+
+| TH01 |
+|---|
+| Cadastro e Autenticação |
+| EP01, EP02, EP03, EP04 |
+
+| TH02 |
+|---|
+| Busca de Decisão |
+| EP05, EP06 |
+
+| TH03 |
+|---|
+| Pós-venda |
+| EP07, EP08 |
