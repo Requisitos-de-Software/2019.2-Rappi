@@ -35,6 +35,7 @@
 
 ## Tabela com os requisitos já priorizados e suas pontuações
 
+|  First Things First |  |  |  |  |  |  |  |  |  |
 | :---: | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Requisito** | **Benefício Relativo** | **Penalidade Relativa** | **Valor Total** | **Valor(%)** | **Custo Relativo** | **Custo(%)** | **Risco Relativo** | **Risco(%)** | **Prioridade** |
 |  **2** | 5 | 9 | 18,5 | 6,016260162601626 | 4 | 3,3057851239669422 | 2 | 1,6260162601626016 | 1,1444274028629857 |
