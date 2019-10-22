@@ -10,6 +10,7 @@
 :---:|:---|:---:
 US01 | <p align="justify">Enquanto Usuário, eu devo me cadastrar no aplicativo, assim, posso efetuar meus pedidos.</p> | 1,02| 
 US02 | <p align="justify"> Enquanto Gerente de Estabelecimento, eu devo me cadastrar no aplicativo, assim, posso gerenciar meu estabelecimento, meus produtos e pedidos </p>| 1,14| 
+
 #### Feature 02 - Cadastro de endereços
 **ID**|**Descrição**|**Prioridade**| 
 :---:|:---|:---:
