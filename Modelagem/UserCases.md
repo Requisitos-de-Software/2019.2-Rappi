@@ -3,6 +3,12 @@
 > **Descrição:** Casos de usúario
 >
 > **Versão:** 0.1
+> 
+> **Autor:** João de Assis
+>
+> **Descrição:** Refatorando casos de Usuário
+>
+> **Versão:** 0.2
 
 ## Casos de uso
 
@@ -27,11 +33,12 @@ Utilizado para representar os requisitos funcionais de um software, o diagrama d
 
 ### **UC02 - Fazer um pedido**
 
-![Fazer um pedido](https://i.imgur.com/6rT3I67.jpg)
+![](https://i.imgur.com/uxBFYHN.png)
 
 
 
-| Versão |1.0 29/09/2019 |
+
+| Versão |1.1 21/10/2019 |
 | -------------- |:----------- |
 | **Autor(es)** | André Freitas e João de Assis |
 | **Descrição** | Realizar um pedido no aplicativo |
@@ -62,10 +69,11 @@ Utilizado para representar os requisitos funcionais de um software, o diagrama d
 
 ### **UC04 - Gerenciamento de estabelecimento**
 
-![Gerenciamento do estabelecimento](https://i.imgur.com/lSwB4uB.png)
+![](https://i.imgur.com/I1KXj0z.png)
 
 
-| Versão |1.0 29/09/2019 |
+
+| Versão |1.1 21/10/2019 |
 | -------------- |:----------- |
 | **Autor(es)** | André Freitas, João de Assis e Lucas Ganda |
 | **Descrição** | Dono de estabelecimento gerencia informações sobre seu estabelecimento na Rappi |
