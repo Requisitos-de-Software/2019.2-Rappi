@@ -28,6 +28,7 @@
 - [Especificação Suplementar](Modelagem/EspecificacaoSuplementar.md)
 - [Product Backlog](Modelagem/ProductBacklog.md)
 - [NFR Framework](Modelagem/NRF.md)
+- [User Stories](Modelagem/UserStories.md)
 
 </details>
    </div>
