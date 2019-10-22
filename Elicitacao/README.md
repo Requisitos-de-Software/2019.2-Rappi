@@ -12,3 +12,4 @@ A elicitação de requisitos é a fase na qual identificamos os requisitos do so
 4.  [Tecnicas](Elicitacao/MoSCoW.md)
 5.  [Introspecção](Elicitacao/Introspecção.md)
 6.  [Observacão](Elicitacao/Obersavação.md)
+7. [First Things First](Elicitacao/FirstThingsFirst.md) 

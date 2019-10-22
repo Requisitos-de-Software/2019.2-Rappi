@@ -16,6 +16,7 @@
 - [MoSCoW](Elicitacao/MoSCoW.md)
 - [Observacão](Elicitacao/Obersavação.md)
 - [Introspecção](Elicitacao/Introspecção.md)
+- [First Things First](Elicitacao/FirstThingsFirst.md)
 
 </details>
 
@@ -25,6 +26,8 @@
 - [Casos de Uso](Modelagem/UserCases.md)
 - [Cenários](Modelagem/Cenarios.md)
 - [Especificação Suplementar](Modelagem/EspecificacaoSuplementar.md)
+- [Product Backlog](Modelagem/ProductBacklog.md)
+- [NFR Framework](Modelagem/NRF.md)
 
 </details>
    </div>
