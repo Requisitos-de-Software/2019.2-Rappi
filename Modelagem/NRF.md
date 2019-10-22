@@ -15,7 +15,7 @@ Trata-se de um framework conceitual para condução da Engenharia de Requisitos 
 
 Após uma avaliação do aplicativo Rappi, este é o modelo NFR gerado
 
-![Grafo do NFR](https://i.imgur.com/p7Bv2VO.jpg)
+![Grafo do NFR](https://i.imgur.com/k0baC2p.jpg)
 
 
 </p>
