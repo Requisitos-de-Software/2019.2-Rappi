@@ -13,4 +13,7 @@ Após uma avaliação do aplicativo Rappi, este é o modelo NFR gerado
 | ------ | ----------------------------- |
 | 1.0    | João de Assis e André Freitas |
 
+![](https://i.imgur.com/p7Bv2VO.jpg)
+
+
 </p>
