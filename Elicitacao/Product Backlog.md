@@ -50,7 +50,7 @@ US24 | <p align="justify"> Enquanto Usuário, eu posso receber notificações co
 
 #### Feature 07 - Acompanhamento do pedido
 **ID**|**Descrição**|**Prioridade**| 
-:---:|:---|:---:|:---:
+:---:|:---|:---:
 US11 | <p align="justify">Enquanto Entregador, eu posso decidir quais estabelecimentos são válidos para eu realizar uma entrega, baseado na distância que estou dele.</p> | 0,46| 
 US12 | <p align="justify"> Enquanto Usuário, eu posso verificar o status do meu pedido, para ter uma sensação maior de controle e familiaridade.</p>| 0,32|
 US13| <p align="justify"> Enquanto Gerente de Estabelecimento, eu posso modificar o status do pedido de um usuário, para ser mais transparente com este.</p>| 0,32|
