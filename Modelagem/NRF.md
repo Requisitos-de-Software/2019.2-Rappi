@@ -1,3 +1,9 @@
+> **Autor:** João de Assis e André Freitas
+>
+> **Descrição:** Criação do Artefato
+>
+> **Versão:** 0.1
+
 # Modelagem de requisitos
 
 ## NFR
@@ -9,11 +15,7 @@ Trata-se de um framework conceitual para condução da Engenharia de Requisitos 
 
 Após uma avaliação do aplicativo Rappi, este é o modelo NFR gerado
 
-| Versão | Integrantes                   |
-| ------ | ----------------------------- |
-| 1.0    | João de Assis e André Freitas |
-
-![](https://i.imgur.com/p7Bv2VO.jpg)
+![Grafo do NFR](https://i.imgur.com/p7Bv2VO.jpg)
 
 
 </p>
