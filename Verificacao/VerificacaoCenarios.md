@@ -1,3 +1,9 @@
+> **Autor:** Daniel Ashton Oda
+>
+> **Descrição:** Verificação dos Cenários
+>
+> **Versão:** 0.1
+
 # CheckList - Cenários
 
 | Item | Sim | Não | Tipo de Erro | Qtde de Erros (%) | Correção |
