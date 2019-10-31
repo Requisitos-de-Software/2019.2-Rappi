@@ -1,6 +1,6 @@
 # Verificacao Especificacao Suplementar
 
-> **Autor:** João de Assis
+> **Autor:** João de Assis e Wictor Girardi
 >
 > **Descrição:** Verificação da Especificacao Suplementar
 >

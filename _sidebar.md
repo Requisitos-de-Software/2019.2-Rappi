@@ -31,4 +31,17 @@
 - [User Stories](Modelagem/UserStories.md)
 
 </details>
+
+<details><summary>Verificação</summary>
+
+- [Verificação Lexicos](Verificacao/VerificacaoLexico.md)
+- [Verificação Brainstorm](Verificacao/VerificacaoBrainstorm.md)
+- [Verificação Cenários](Verificacao/VerificacaoCenarios.md)
+- [Verificação Especificação Suplementar](Verificacao/VerificacaoEspecificacaoSuplementar.md)
+- [Verificação Product Backlog](Verificacao/VerificacaoProductBacklog.md)
+- [Verificação NFR Framework](Verificacao/VerificacaoNRF.md)
+- [Verificação Questionario](Verificacao/VerivalQuestionario.md)
+- [Verificação Rich Picture](Verificacao/VerificacaoRichPicture.md)
+
+</details>
    </div>
