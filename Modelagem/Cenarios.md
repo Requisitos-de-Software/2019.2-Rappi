@@ -1,8 +1,8 @@
-> **Autor:** Wictor Girardi
+> **Autor:** Wictor Girardi, Daniel Oda
 >
 > **Descrição:** Cenários
 >
-> **Versão:** 0.1
+> **Versão:** 0.2
 
 ## Introdução
 
@@ -50,7 +50,7 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Restrição** |
 |Internet indisponível, Rede celular indisponível, Localidade indisponível|
 |**Exceção**   |
-|<p>Sem acesso ao Smartphone</p> <p>Telefone inexistente</p> <p>Internet indisponível</p><p>Localidade indisponível</p>|
+|<p>Sem acesso ao Smartphone</p> <p>Telefone inexistente</p> <p>Internet indisponível</p>|
 
 ## Cenário 02
 |**Cenário 02**|
@@ -64,11 +64,11 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Atores**    |
  <p>Usuário cadastrado</p>|
 |**Recursos**  |
-|<p>Internet</p> <p>Smartphone</p> <p>App da Rappi previamente instalado</p> <p>Localidade atendida pelo Rappi</p>|
+|<p>Internet</p> <p>Smartphone</p> <p>App da Rappi previamente instalado</p> <p>Localidade atendida pelo Rappi</p> <p>Forma de pagamento válida</p>|
 |**Episódios** |
-|<p>Usuário clica na aba 'Restaurante'</p> <p>Usuário escolhe a categoria do restaurante desejado</p> <p>Usuário escolhe o Restaurante</p> <p>Usuário escolhe a refeição dentro do cardapio do restaurante</p> <p>Usuário escolhe os acompanhamentos do pedido</p> <p>Usuário finaliza a compra da refeição</p> |
+|<p>Usuário clica na aba 'Restaurante'</p> <p>Usuário escolhe a categoria do restaurante desejado</p> <p>Usuário escolhe o Restaurante</p> <p>Usuário escolhe a refeição dentro do cardapio do restaurante</p> <p>Usuário escolhe os acompanhamentos do pedido</p> <p>Usuário escolhe o endereço de entrega</p> <p>Usuário escolhe forma de pagamento válida</p> <p>Usuário finaliza a compra da refeição</p> |
 |**Restrição** |
-|<p>Internet indisponível</p> <p>Localidade não atendida</p>|
+|<p>Internet indisponível</p> <p>Localidade não atendida</p> <p>Forma de pagamento inválida</p>|
 |**Exceção**   |
 |<p>Sem acesso a Smartphone</p> <p>Internet indisponível</p>|
 
@@ -84,11 +84,11 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Atores**|
 |Usuário da Rappi|
 |**Recursos**  |
-|<p>Internet</p> <p>Smartphone</p> <p>App da Rappi previamente instalado</p> <p>Localidade atendida pelo Rappi</p>|
+|<p>Internet</p> <p>Smartphone</p> <p>App da Rappi previamente instalado</p> <p>Localidade atendida pelo Rappi</p> <p>Forma de pagamento válida</p>|
 |**Episódios** |
-|<p>Usuário clica na aba 'SuperMercados'</p> <p>Usuário escolhe a categoria do supermercado desejado</p> <p>Usuário escolhe o supermercado</p> <p>Usuário escolhe a categoria do produto dentro do supermercado</p> <p>Usuário escolhe o produto</p> <p>Usuário escolhe a quantidade de produtos</p> <p>Usuário finaliza a compra dos produtos</p>|
+|<p>Usuário clica na aba 'SuperMercados'</p> <p>Usuário escolhe a categoria do supermercado desejado</p> <p>Usuário escolhe o supermercado</p> <p>Usuário escolhe a categoria do produto dentro do supermercado</p> <p>Usuário escolhe o produto</p> <p>Usuário escolhe a quantidade de produtos</p> <p>Usuário escolhe o endereço de entrega</p> <p>Usuário escolhe forma de pagamento válida</p> <p>Usuário finaliza a compra dos produtos</p>|
 |**Restrição** |
-<p>Internet indisponível</p> <p>Localidade não atendida</p>|
+<p>Internet indisponível</p> <p>Localidade não atendida</p> <p>Forma de pagamento inválida</p>|
 |**Exceção**   |
 |<p>Sem acesso a Smartphone</p> <p>Internet indisponível</p>|
 
@@ -104,11 +104,11 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Atores**|
 |Usuário da Rappi|
 |**Recursos**  |
-|<p>Internet</p> <p>Smartphone</p> <p>App da Rappi previamente instalado</p> <p>Localidade atendida pelo Rappi</p>|
+|<p>Internet</p> <p>Smartphone</p> <p>App da Rappi previamente instalado</p> <p>Localidade atendida pelo Rappi</p> <p>Forma de pagamento válida</p>|
 |**Episódios** |
-|<p>Usuário clica na aba 'farmácias'</p> <p>Usuário escolhe a farmácia</p> <p>Usuário escolhe a categoria do medicamento dentro da farmacia</p> <p>Usuário escolhe o produto</p> <p>Usuário escolhe a quantidade de produtos</p> <p>Usuário finaliza a compra dos produtos</p>|
+|<p>Usuário clica na aba 'farmácias'</p> <p>Usuário escolhe a farmácia</p> <p>Usuário escolhe a categoria do medicamento dentro da farmacia</p> <p>Usuário escolhe o produto</p> <p>Usuário escolhe a quantidade de produtos</p> <p>Usuário escolhe o endereço de entrega</p> <p>Usuário escolhe forma de pagamento válida</p> <p>Usuário finaliza a compra dos produtos</p>|
 |**Restrição** |
-<p>Internet indisponível</p> <p>Localidade não atendida</p>|
+<p>Internet indisponível</p> <p>Localidade não atendida</p> <p>Forma de pagamento inválida</p>|
 |**Exceção**   |
 |<p>Sem acesso a Smartphone</p> <p>Internet indisponível</p>|
 
@@ -125,11 +125,11 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Atores**|
 |Usuário da Rappi|
 |**Recursos**  |
-|<p>Internet</p> <p>Smartphone</p> <p>App da Rappi previamente instalado</p> <p>Localidade atendida pelo Rappi</p>|
+|<p>Internet</p> <p>Smartphone</p> <p>App da Rappi previamente instalado</p> <p>Localidade atendida pelo Rappi</p> <p>Forma de pagamento válida</p>|
 |**Episódios** |
-|<p>Usuário clica na aba 'bebidas'</p> <p>Usuário escolhe a loja</p> <p>Usuário escolhe a categoria da bebida dentro da loja</p> <p>Usuário escolhe o produto</p> <p>Usuário escolhe a quantidade de produtos</p> <p>Usuário finaliza a compra dos produtos</p>|
+|<p>Usuário clica na aba 'bebidas'</p> <p>Usuário escolhe a loja</p> <p>Usuário escolhe a categoria da bebida dentro da loja</p> <p>Usuário escolhe o produto</p> <p>Usuário escolhe a quantidade de produtos</p> <p>Usuário escolhe o endereço de entrega</p> <p>Usuário escolhe forma de pagamento válida</p> <p>Usuário finaliza a compra dos produtos</p>|
 |**Restrição** |
-<p>Internet indisponível</p> <p>Localidade não atendida</p>|
+<p>Internet indisponível</p> <p>Localidade não atendida</p> <p>Forma de pagamento inválida</p>|
 |**Exceção**   |
 |<p>Sem acesso a Smartphone</p> <p>Internet indisponível</p>|
 
@@ -145,11 +145,11 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Atores**|
 |Usuário da Rappi|
 |**Recursos**  |
-|<p>Internet</p> <p>Smartphone</p> <p>App da Rappi previamente instalado</p> <p>Localidade atendida pelo Rappi</p>|
+|<p>Internet</p> <p>Smartphone</p> <p>App da Rappi previamente instalado</p> <p>Localidade atendida pelo Rappi</p> <p>Forma de pagamento válida</p>|
 |**Episódios** |
-|<p>Usuário clica na aba 'BMW'</p> <p>Usuário escolhe a loja</p>  <p>Usuário escolhe o veículo</p> <p>Usuário escolhe a quantidade de veículos</p> <p>Usuário finaliza a compra dos veículos</p>|
+|<p>Usuário clica na aba 'BMW'</p> <p>Usuário escolhe a loja</p>  <p>Usuário escolhe o veículo</p> <p>Usuário escolhe a quantidade de veículos</p> <p>Usuário escolhe o endereço de entrega</p> <p>Usuário escolhe forma de pagamento válida</p> <p>Usuário finaliza a compra dos veículos</p>|
 |**Restrição** |
-<p>Internet indisponível</p> <p>Localidade não atendida</p>|
+<p>Internet indisponível</p> <p>Localidade não atendida</p> <p>Forma de pagamento inválida</p>|
 |**Exceção**   |
 |<p>Sem acesso a Smartphone</p> <p>Internet indisponível</p>|
 
@@ -166,11 +166,11 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Atores**|
 |Usuário da Rappi|
 |**Recursos**|
-|<p>Internet</p> <p>Smartphone</p> <p>App da Rappi previamente instalado</p> <p>Localidade atendida pelo Rappi</p>|
+|<p>Internet</p> <p>Smartphone</p> <p>App da Rappi previamente instalado</p> <p>Localidade atendida pelo Rappi</p> <p>Forma de pagamento válida</p>|
 |**Episódios** |
-|<p>Usuário clica na aba 'PETZ'</p> <p>Usuário escolhe a categorias de produto</p> <p>Usuário escolhe o produto</p> <p>Usuário escolhe a quantidade de produtos</p> <p>Usuário finaliza a compra dos produtos</p>|
+|<p>Usuário clica na aba 'PETZ'</p> <p>Usuário escolhe a categorias de produto</p> <p>Usuário escolhe o produto</p> <p>Usuário escolhe a quantidade de produtos</p> <p>Usuário escolhe o endereço de entrega</p> <p>Usuário escolhe forma de pagamento válida</p> <p>Usuário finaliza a compra dos produtos</p>|
 |**Restrição** |
-<p>Internet indisponível</p> <p>Localidade não atendida</p>|
+<p>Internet indisponível</p> <p>Localidade não atendida</p> <p>Forma de pagamento inválida</p>|
 |**Exceção**   |
 |<p>Sem acesso a Smartphone</p> <p>Internet indisponível</p>|
 
@@ -186,11 +186,11 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Atores**|
 |Usuário da Rappi|
 |**Recursos**|
-|<p>Internet</p> <p>Smartphone</p> <p>App da Rappi previamente instalado</p> <p>Localidade atendida pelo Rappi</p>|
+|<p>Internet</p> <p>Smartphone</p> <p>App da Rappi previamente instalado</p> <p>Forma de pagamento válida</p>|
 |**Episódios** |
-|<p>Usuário clica na aba 'act for Amazônia'</p> <p>Usuário escolhe o valor da doação</p> <p>Usuário escolhe a quantidade de doações</p> <p>Usuário finaliza as doações</p>|
+|<p>Usuário clica na aba 'act for Amazônia'</p> <p>Usuário escolhe o valor da doação</p> <p>Usuário escolhe a quantidade de doações</p> <p>Usuário finaliza as doações</p> <p>Usuário escolhe forma de pagamento válida</p>|
 |**Restrição** |
-<p>Internet indisponível</p> <p>Localidade não atendida</p>|
+<p>Internet indisponível</p> <p>Forma de pagamento inválida</p>|
 |**Exceção**   |
 |<p>Sem acesso a Smartphone</p> <p>Internet indisponível</p>|
 
@@ -206,11 +206,11 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Atores**|
 |Usuário da Rappi|
 |**Recursos**|
-|<p>Internet</p> <p>Smartphone</p> <p>App da Rappi previamente instalado</p> <p>Localidade atendida pelo Rappi</p>|
+|<p>Internet</p> <p>Smartphone</p> <p>App da Rappi previamente instalado</p> <p>Localidade atendida pelo Rappi</p> <p>Forma de pagamento válida</p>|
 |**Episódios** |
-|<p>Usuário clica na aba 'cash'</p> <p>Usuário escolhe o valor do saque</p> <p>Usuário finaliza as doações</p>|
+|<p>Usuário clica na aba 'cash'</p> <p>Usuário escolhe o valor do saque</p> <p>Usuário escolhe o endereço de entrega</p> <p>Usuário escolhe forma de pagamento válida</p> <p>Usuário finaliza as doações</p>|
 |**Restrição** |
-<p>Internet indisponível</p> <p>Localidade não atendida</p>|
+<p>Internet indisponível</p> <p>Localidade não atendida</p> <p>Forma de pagamento inválida</p>|
 |**Exceção**   |
 |<p>Sem acesso a Smartphone</p> <p>Internet indisponível</p>|
 
@@ -226,37 +226,16 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Atores**|
 |Usuário da Rappi|
 |**Recursos**|
-|<p>Internet</p> <p>Smartphone</p> <p>App da Rappi previamente instalado</p> <p>Localidade atendida pelo Rappi</p>|
+|<p>Internet</p> <p>Smartphone</p> <p>App da Rappi previamente instalado</p> <p>Localidade atendida pelo Rappi</p> <p>Forma de pagamento válida</p>|
 |**Episódios** |
-|<p>Usuário clica na aba 'sua árvore'</p> <p>Usuário escolhe a quantidade de árvores a serem plantadas</p> <p>Usuário finaliza o plantio</p>|
+|<p>Usuário clica na aba 'sua árvore'</p> <p>Usuário escolhe a quantidade de árvores a serem plantadas</p> <p>Usuário escolhe forma de pagamento válida</p> <p>Usuário finaliza o plantio</p>|
 |**Restrição** |
-<p>Internet indisponível</p> <p>Localidade não atendida</p>|
+<p>Internet indisponível</p> <p>Localidade não atendida</p> <p>Forma de pagamento inválida</p>|
 |**Exceção**   |
 |<p>Sem acesso a Smartphone</p> <p>Internet indisponível</p>|
 
 ## Cenário 11
 |**Cenário 11**|
-|--------------|
-||**Titulo**    |
-|Realizando entregas pelo aplicativo|
-|**Objetivo**  |
-|Realizar a entrega de produtos pela Rappi|
-|**Contexto**  |
-|<p>Local: Tela inicial, Tela Entregas</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, Usuário cadastrado</p>|
-|**Atores**|
-|Usuário da Rappi|
-|**Recursos**|
-|<p>Internet</p> <p>Smartphone</p> <p>App da Rappi previamente instalado</p> <p>Localidade atendida pelo Rappi</p>|
-|**Episódios** |
-|<p>Usuário clica na aba 'entregas'</p> <p>Usuário escolhe o primeiro endereço</p> <p>Usuário escolhe o segundo endereço</p> <p>Usuário escolhe o produto</p> <p>Usuário escolhe o valor aproximado do produto a ser transportado</p> <p>Usuário finaliza a entrega dos produtos</p>|
-|**Restrição** |
-<p>Internet indisponível</p> <p>Localidade não atendida</p>|
-|**Exceção**   |
-|<p>Sem acesso a Smartphone</p> <p>Internet indisponível</p>|
-
-
-## Cenário 12
-|**Cenário 12**|
 |--------------|
 ||**Titulo**   |
 |Realizando doações para a AACD|
@@ -267,17 +246,17 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Atores**|
 |Usuário da Rappi|
 |**Recursos**|
-|<p>Internet</p> <p>Smartphone</p> <p>App da Rappi previamente instalado</p> <p>Localidade atendida pelo Rappi</p>|
+|<p>Internet</p> <p>Smartphone</p> <p>App da Rappi previamente instalado</p> <p>Forma de pagamento válida</p>|
 |**Episódios** |
-|<p>Usuário clica na aba 'AACD'</p> <p>Usuário escolhe o valor da doação</p> <p>Usuário escolhe a quantidade de doações</p> <p>Usuário finaliza as doações</p>|
+|<p>Usuário clica na aba 'AACD'</p> <p>Usuário escolhe o valor da doação</p> <p>Usuário escolhe a quantidade de doações</p> <p>Usuário escolhe forma de pagamento válida</p> <p>Usuário finaliza as doações</p>|
 |**Restrição** |
-<p>Internet indisponível</p> <p>Localidade não atendida</p>|
+<p>Internet indisponível</p> <p>Forma de pagamento inválida</p>|
 |**Exceção**   |
 |<p>Sem acesso a Smartphone</p> <p>Internet indisponível</p>|
 
 
-## Cenário 13
-|**Cenário 13**|
+## Cenário 12
+|**Cenário 12**|
 |--------------|
 ||**Titulo**   |
 |Adicionar e verificar Cupons|
@@ -297,8 +276,8 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |<p>Sem acesso a Smartphone</p> <p>Internet indisponível</p>|
 
 
-## Cenário 14
-|**Cenário 14**|
+## Cenário 13
+|**Cenário 13**|
 |--------------|
 |**Titulo**    |
 |Avaliar quantidade de pontos obtidos|
@@ -317,8 +296,8 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Exceção**   |
 |<p>Sem acesso a Smartphone</p> <p>Internet indisponível</p>|
 
-## Cenário 15
-|**Cenário 15**|
+## Cenário 14
+|**Cenário 14**|
 |--------------|
 |**Titulo**    |
 |Solicitar suporte da Rappi|
@@ -338,8 +317,8 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |<p>Sem acesso a Smartphone</p> <p>Internet indisponível</p>|
 
 
-## Cenário 16
-|**Cenário 16**|
+## Cenário 15
+|**Cenário 15**|
 |--------------|
 |**Titulo**    |
 |Verificar e adicionar restaurantes ou pedidos favoritos|
