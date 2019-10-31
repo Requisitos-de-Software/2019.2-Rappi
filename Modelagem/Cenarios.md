@@ -88,7 +88,7 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Episódios** |
 |<p>Usuário clica na aba 'SuperMercados'</p> <p>Usuário escolhe a categoria do supermercado desejado</p> <p>Usuário escolhe o supermercado</p> <p>Usuário escolhe a categoria do produto dentro do supermercado</p> <p>Usuário escolhe o produto</p> <p>Usuário escolhe a quantidade de produtos</p> <p>Usuário escolhe o endereço de entrega</p> <p>Usuário escolhe forma de pagamento válida</p> <p>Usuário finaliza a compra dos produtos</p>|
 |**Restrição** |
-<p>Internet indisponível</p> <p>Localidade não atendida</p> <p>Forma de pagamento inválida</p>|
+|<p>Internet indisponível</p> <p>Localidade não atendida</p> <p>Forma de pagamento inválida</p>|
 |**Exceção**   |
 |<p>Sem acesso a Smartphone</p> <p>Internet indisponível</p>|
 
@@ -108,7 +108,7 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Episódios** |
 |<p>Usuário clica na aba 'farmácias'</p> <p>Usuário escolhe a farmácia</p> <p>Usuário escolhe a categoria do medicamento dentro da farmacia</p> <p>Usuário escolhe o produto</p> <p>Usuário escolhe a quantidade de produtos</p> <p>Usuário escolhe o endereço de entrega</p> <p>Usuário escolhe forma de pagamento válida</p> <p>Usuário finaliza a compra dos produtos</p>|
 |**Restrição** |
-<p>Internet indisponível</p> <p>Localidade não atendida</p> <p>Forma de pagamento inválida</p>|
+|<p>Internet indisponível</p> <p>Localidade não atendida</p> <p>Forma de pagamento inválida</p>|
 |**Exceção**   |
 |<p>Sem acesso a Smartphone</p> <p>Internet indisponível</p>|
 
@@ -129,7 +129,7 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Episódios** |
 |<p>Usuário clica na aba 'bebidas'</p> <p>Usuário escolhe a loja</p> <p>Usuário escolhe a categoria da bebida dentro da loja</p> <p>Usuário escolhe o produto</p> <p>Usuário escolhe a quantidade de produtos</p> <p>Usuário escolhe o endereço de entrega</p> <p>Usuário escolhe forma de pagamento válida</p> <p>Usuário finaliza a compra dos produtos</p>|
 |**Restrição** |
-<p>Internet indisponível</p> <p>Localidade não atendida</p> <p>Forma de pagamento inválida</p>|
+|<p>Internet indisponível</p> <p>Localidade não atendida</p> <p>Forma de pagamento inválida</p>|
 |**Exceção**   |
 |<p>Sem acesso a Smartphone</p> <p>Internet indisponível</p>|
 
@@ -149,7 +149,7 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Episódios** |
 |<p>Usuário clica na aba 'BMW'</p> <p>Usuário escolhe a loja</p>  <p>Usuário escolhe o veículo</p> <p>Usuário escolhe a quantidade de veículos</p> <p>Usuário escolhe o endereço de entrega</p> <p>Usuário escolhe forma de pagamento válida</p> <p>Usuário finaliza a compra dos veículos</p>|
 |**Restrição** |
-<p>Internet indisponível</p> <p>Localidade não atendida</p> <p>Forma de pagamento inválida</p>|
+|<p>Internet indisponível</p> <p>Localidade não atendida</p> <p>Forma de pagamento inválida</p>|
 |**Exceção**   |
 |<p>Sem acesso a Smartphone</p> <p>Internet indisponível</p>|
 
@@ -170,7 +170,7 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Episódios** |
 |<p>Usuário clica na aba 'PETZ'</p> <p>Usuário escolhe a categorias de produto</p> <p>Usuário escolhe o produto</p> <p>Usuário escolhe a quantidade de produtos</p> <p>Usuário escolhe o endereço de entrega</p> <p>Usuário escolhe forma de pagamento válida</p> <p>Usuário finaliza a compra dos produtos</p>|
 |**Restrição** |
-<p>Internet indisponível</p> <p>Localidade não atendida</p> <p>Forma de pagamento inválida</p>|
+|<p>Internet indisponível</p> <p>Localidade não atendida</p> <p>Forma de pagamento inválida</p>|
 |**Exceção**   |
 |<p>Sem acesso a Smartphone</p> <p>Internet indisponível</p>|
 
@@ -190,7 +190,7 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Episódios** |
 |<p>Usuário clica na aba 'act for Amazônia'</p> <p>Usuário escolhe o valor da doação</p> <p>Usuário escolhe a quantidade de doações</p> <p>Usuário finaliza as doações</p> <p>Usuário escolhe forma de pagamento válida</p>|
 |**Restrição** |
-<p>Internet indisponível</p> <p>Forma de pagamento inválida</p>|
+|<p>Internet indisponível</p> <p>Forma de pagamento inválida</p>|
 |**Exceção**   |
 |<p>Sem acesso a Smartphone</p> <p>Internet indisponível</p>|
 
@@ -210,7 +210,7 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Episódios** |
 |<p>Usuário clica na aba 'cash'</p> <p>Usuário escolhe o valor do saque</p> <p>Usuário escolhe o endereço de entrega</p> <p>Usuário escolhe forma de pagamento válida</p> <p>Usuário finaliza as doações</p>|
 |**Restrição** |
-<p>Internet indisponível</p> <p>Localidade não atendida</p> <p>Forma de pagamento inválida</p>|
+|<p>Internet indisponível</p> <p>Localidade não atendida</p> <p>Forma de pagamento inválida</p>|
 |**Exceção**   |
 |<p>Sem acesso a Smartphone</p> <p>Internet indisponível</p>|
 
@@ -230,7 +230,7 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Episódios** |
 |<p>Usuário clica na aba 'sua árvore'</p> <p>Usuário escolhe a quantidade de árvores a serem plantadas</p> <p>Usuário escolhe forma de pagamento válida</p> <p>Usuário finaliza o plantio</p>|
 |**Restrição** |
-<p>Internet indisponível</p> <p>Localidade não atendida</p> <p>Forma de pagamento inválida</p>|
+|<p>Internet indisponível</p> <p>Localidade não atendida</p> <p>Forma de pagamento inválida</p>|
 |**Exceção**   |
 |<p>Sem acesso a Smartphone</p> <p>Internet indisponível</p>|
 
@@ -250,7 +250,7 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Episódios** |
 |<p>Usuário clica na aba 'AACD'</p> <p>Usuário escolhe o valor da doação</p> <p>Usuário escolhe a quantidade de doações</p> <p>Usuário escolhe forma de pagamento válida</p> <p>Usuário finaliza as doações</p>|
 |**Restrição** |
-<p>Internet indisponível</p> <p>Forma de pagamento inválida</p>|
+|<p>Internet indisponível</p> <p>Forma de pagamento inválida</p>|
 |**Exceção**   |
 |<p>Sem acesso a Smartphone</p> <p>Internet indisponível</p>|
 
@@ -271,7 +271,7 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Episódios** |
 |<p>Usuário clica no icone de cupons</p> <p>Usuário digíta ou verifica se há um cupom</p> <p>Usuário aplica o cupom</p>|
 |**Restrição** |
-<p>Internet indisponível</p> <p>Localidade não atendida</p>|
+|<p>Internet indisponível</p> <p>Localidade não atendida</p>|
 |**Exceção**   |
 |<p>Sem acesso a Smartphone</p> <p>Internet indisponível</p>|
 
@@ -292,7 +292,7 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Episódios** |
 |<p>Usuário já cadastrado clica no ícone inferior mais à direita com um diamante</p> <p>Usuário vê sua quantidade de pontos no aplicativo</p> <p>Usuário pode verificar em qual nivel ele se encontra e quanto falta para ele subir de nivel</p> <p>Usuário pode verificar as missões ativas</p> |
 |**Restrição** |
-<p>Internet indisponível</p> <p>Localidade não atendida</p>|
+|<p>Internet indisponível</p> <p>Localidade não atendida</p>|
 |**Exceção**   |
 |<p>Sem acesso a Smartphone</p> <p>Internet indisponível</p>|
 
@@ -312,7 +312,7 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Episódios** |
 |<p>Usuário já cadastrado clica no ícone inferior segundo a direita com um fone de ouvido</p> <p>Usuário pode solicitar o suporte direto</p> <p>Usuário pode solicitar ajuda em cima de qualquer pedido realizado</p> <p>Usuário pode verificar o recibo dos pedidos realizados</p> |
 |**Restrição** |
-<p>Internet indisponível</p> <p>Localidade não atendida</p>|
+|<p>Internet indisponível</p> <p>Localidade não atendida</p>|
 |**Exceção**   |
 |<p>Sem acesso a Smartphone</p> <p>Internet indisponível</p>|
 
@@ -333,7 +333,7 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Episódios** |
 |<p>Usuário já cadastrado clica no íconeinferior central com coração</p> <p>Usuário pode visualizar os pedidos e lojas favoritas</p> <p>Usuário pode adicionar pedidos como favoritos</p> |
 |**Restrição** |
-<p>Internet indisponível</p> <p>Localidade não atendida</p>|
+|<p>Internet indisponível</p> <p>Localidade não atendida</p>|
 |**Exceção**   |
 |<p>Sem acesso a Smartphone</p> <p>Internet indisponível</p>|
 
