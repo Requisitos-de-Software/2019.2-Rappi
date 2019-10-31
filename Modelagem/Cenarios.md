@@ -62,7 +62,7 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Contexto**  |
 |<p>Local: Tela inicial, Tela de restaurantes</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, localidade atendida pela Rappi</p>|
 |**Atores**    |
- <p>Usuário cadastrado</p>|
+|Usuário cadastrado|
 |**Recursos**  |
 |<p>Internet</p> <p>Smartphone</p> <p>App da Rappi previamente instalado</p> <p>Localidade atendida pelo Rappi</p> <p>Forma de pagamento válida</p>|
 |**Episódios** |
