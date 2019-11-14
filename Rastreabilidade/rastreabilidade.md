@@ -1,5 +1,11 @@
 # Rastreabilidade
 
+> **Autor:** Wictor Girardi, Lucas Ganda e João de Assis
+>
+> **Descrição:** Criação do Documento
+>
+> **Versão:** 0.1
+
 # Introdução
 
 É certo que para encontrar os requisitos de um projeto, além do desenvolvimento das técnicas utilizadas, as discussões apresentam características importantes da equipe: quais decisões foram tomadas, como e porquê. Este arquivo contém toda a rastreabilidade das entregas referente à materia de Requisitos de Software, abrangendo as conversas através do WhatsApp do grupo e até mesmo áudios de conversas gravadas com a autorização da equipe.
