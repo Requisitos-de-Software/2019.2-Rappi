@@ -3,6 +3,43 @@
 > **Descrição:** Forward From
 >
 > **Versão:** 0.1
+> **Autor:** Wictor Girardi
+>
+> **Descrição:** Introdução
+>
+> **Versão:** 0.2
+
+# Introdução
+
+Este artefato busca ligar cada requisito levantado aos respectivos métodos de elicitação e modelagem utilizados na disciplina.
+
+# Backward-From
+
+## Legenda
+
+#### Modelagem
+
+| Código | Significado |
+|  :------: | ------ |
+|  IS | iStar |
+|  NFR | NFR Framework |
+|  US | User Story |
+|  ECU | Especificações de Caso de Uso |
+|  DCU| Diagramas de Caso de Uso |
+|  L | Léxicos |
+|  C | Cenários |
+
+#### Elicitação
+
+| Código | Significado |
+|  :------: | ------ |
+|  AP | Análise de Protocolo |
+|  AD | Análise de Discurso |
+|  ENT | Entrevista |
+|  Q | Questionário |
+|  INT | Introspecção |
+|  ST | Storytelling |
+
 
 | Épico  | Feature | ID | Descrição                                       | História de Usuário |
 | --- | --- | ------- | ----------------------------------------------------------------- | ------------------- |
