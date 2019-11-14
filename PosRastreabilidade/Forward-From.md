@@ -3,6 +3,8 @@
 > **Descrição:** Forward From
 >
 > **Versão:** 0.1
+>
+>
 > **Autor:** Wictor Girardi
 >
 > **Descrição:** Introdução
@@ -58,3 +60,16 @@ Este artefato busca ligar cada requisito levantado aos respectivos métodos de e
 | <span style="color:red"><u>E07</span> | <u>F07 | <u>RQ07 | O aplicativo deve exibir ao usuário, em tempo real, a situação do seu pedido | <u>US12 |
 | <span style="color:red"><u>E08</span> | <u>F08 | <u>RQ14 | O aplicativo poderia permitir ao usuário avaliar o entregador e o pedido | <u>US20 |
 | <span style="color:red"><u>E08</span> | <u>F08 | <u>RQ20 | O usuário poderia dar gorjetas para o entregador | <u>US26 |
+
+# Referências
+
+### Exemplo de modelo de Forward From
+
+[Repositório Pinterest](http://www.joberth-rogers.ml/2018.2-Requisitos-Pinterest/forward_from/) Acesso em 13 de novembro de 2019.
+
+[Repositório Twitch](https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Matriz-Rastreabilidade) Acesso em 13 de novembro de 2019.
+
+
+### Material disponibilizado pelo professor
+
+SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 24. 2º/2019. 44 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
