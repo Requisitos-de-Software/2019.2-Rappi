@@ -40,3 +40,16 @@ TE02. Storytelling
 TE03. Questionário
 TE04. Introspecção
 TE05. Observação
+
+## Referências
+
+### Exemplo de modelo de Backward From
+
+http://www.joberth-rogers.ml/2018.2-Requisitos-Pinterest/backward_from/ Acesso em 13 de novembro de 2019.
+
+https://github.com/gabrielziegler3/Requisitos-2018-1/wiki/Matriz-Rastreabilidade Acesso em 13 de novembro de 2019.
+
+
+### Material disponibilizado pelo professor
+
+SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 24. 2º/2019. 44 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
